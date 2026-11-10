@@ -48,5 +48,4 @@
 
 - 🌐 **Portfolio:** [anuphap.vercel.app](https://anuphap.vercel.app/)
 - ✉️ **Email:** [anuphap.240348@gmail.com](mailto:anuphap.240348@gmail.com)
-- 📞 **Phone:** 085-035-2548
-- 💼 **LinkedIn:** [Anuphap Sorntian](https://www.linkedin.com/)
+- 💼 **LinkedIn:** [Anuphap Sorntian]([https://www.linkedin.com/](https://www.linkedin.com/in/anuphap/))
