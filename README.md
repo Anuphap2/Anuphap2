@@ -46,15 +46,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuphap2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Anuphap's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuphap2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
-</div>
-
----
-
 ### 📬 Get in Touch
 
 <p align="center">
